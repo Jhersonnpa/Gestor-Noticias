@@ -1,0 +1,80 @@
+.page {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.btn-seccio {
+    color: #d4d4d4;
+    background-color: #222;
+    width: 100%;
+    cursor: pointer;
+}
+
+.btn-seccio:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+body {
+    background-color: rgb(34, 24, 175);
+}
+
+#inputSeccion {
+    color: #111;
+}
+
+#inputModificar {
+    color: #111;
+}
+
+.navbar-inverse {
+    border-radius: 0;
+}
+
+.jumbotron {
+    background-color: #222;
+    color: #ffffff;
+}
+
+.li {
+    background-color: #111;
+}
+
+.lead {
+    color: #ffffff
+}
+
+.btn-lg {
+    color: #ffffff;
+    padding: 20px;
+    background-color: #646363;
+}
+
+.btn-lg:hover {
+    color: rgb(34, 24, 175);
+}
+
+.footer {
+    color: #ffffff;
+    background-color: #222;
+    padding: 30px 0;
+    justify-self: end;
+    margin-top: 30px;
+}
+
+.correcto {
+    background-color: green !important;
+    color: #ffffff !important;
+    border-radius: 7px;
+}
+
+.error {
+    background-color: red !important;
+    color: #ffffff !important;
+    border-radius: 7px;
+}
